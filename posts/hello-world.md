@@ -2,7 +2,7 @@
 date = '2026-08-10T14:48:49+02:00'
 draft = false
 title = 'Hello World'
-tags = ['随笔']
+tags = ['随笔', '技术']
 +++
 
 这是我用 [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 搭建的新博客的第一篇文章。
